@@ -12,3 +12,6 @@ For those people (probably only me), I can recommend it. I've typed on it for 10
 
 But mainly, it's here so I have easy access to it when I'm on a new machine, because it's painful for me to type without it.
 
+I generated the layout image using the [Colemak Mod-DH analysis tool](https://colemakmods.github.io/mod-dh/analyze.html).
+ 
+
