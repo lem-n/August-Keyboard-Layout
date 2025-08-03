@@ -1,5 +1,7 @@
 # August-Keyboard-Layout
 
+![August layout](./images/August-Layout.png)
+
 This is an optimized Dvorak keyboard layout. If you're here, and wondering if YOU should use it, I would say it's very unlikely. The potential userbase is people who:
 
 1. currently use a Dvorak keyboard layout (since this is an optimized variant of Dvorak)
